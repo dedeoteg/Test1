@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-this is for test purpose. so beware
-thanks
-=======
+
+echo this is for test purpose. so beware
+
 echo thanks
->>>>>>> dev
