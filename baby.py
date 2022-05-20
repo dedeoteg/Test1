@@ -1,2 +1,2 @@
-print wawu this works
-thanks
+print "wawu this works"
+print "thanks"
